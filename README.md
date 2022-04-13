@@ -7,9 +7,9 @@ This project was done using:
 
 ## Loggin Page
 
-1.loading button
-2.An input error will be displayed in the textInput area (textInput.helperText) on (onChange event).
-3.General errors will appear below the button
+-loading button
+-An input error will be displayed in the textInput area (textInput.helperText) on (onChange event).
+-General errors will appear below the button
 
 Input integrity tests using rejex:
 1.Email input- only valid email
