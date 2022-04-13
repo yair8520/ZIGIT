@@ -1,9 +1,9 @@
 # "User Info": Home Assignment ZIGIT
 
 This project was done using:
-1.react.js
-2.Redux for state management.
-3.MATERIAL-UI components
+* react.js
+* Redux for state management.
+* MATERIAL-UI components
 
 ## Loggin Page
 
